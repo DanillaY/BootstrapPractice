@@ -3,3 +3,10 @@
 	text-shadow: 1px 1px 1px black;
 	font-weight: bold;
   }
+
+  @media (max-width: 576px) { 
+	.headerBottomTitle {
+  		text-shadow: 0.5px 0.5px 0.5px black;
+		font-size: 12px;
+	}
+ }

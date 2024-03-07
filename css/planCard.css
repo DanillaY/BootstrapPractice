@@ -1,0 +1,30 @@
+.planCard {
+	margin: 4%;
+	border-radius: 32px;
+	width: 270px;
+	height: 340px;
+	background: linear-gradient(white, white) padding-box,
+	linear-gradient(to right, #B8BAC6,#B8BAC6) border-box;
+  	border: 4px solid transparent;
+	text-align: center;
+
+}
+.planCardGrad {
+	margin: 4%;
+	border-radius: 32px;
+	width: 270px;
+	height: 340px;
+	background: linear-gradient(white, white) padding-box,
+              linear-gradient(to right, #FF8251, #FBC300) border-box;
+  	border: 4px solid transparent;
+	text-align: center;
+}
+.planHeaderText {
+	font-weight: 700; margin-top: 7%;
+}
+.planPriceText{
+	font-size: 64px; font-weight: 700; color: #FBC300; margin-top: 7%
+}
+.planBottomText{
+	margin-top: 7%;
+}
